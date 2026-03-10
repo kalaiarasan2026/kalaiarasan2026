@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Kalaiarasan</h1>
-<h3 align="center">Frontend Developer | JavaScript Builder | Tech Creator</h3>
+<h1 align="center">Hi 👋 I'm Kalaiarasan</h1>
+<h3 align="center">Frontend Developer | JavaScript Builder | CodeWithKalai</h3>
 
 <p align="center">
-  <a href="https://github.com/kalaiarasan2026">
-    <img src="https://komarev.com/ghpvc/?username=kalaiarasan2026&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
-  </a>
+<a href="https://github.com/kalaiarasan2026">
+<img src="https://komarev.com/ghpvc/?username=kalaiarasan2026&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer focused on **HTML, CSS, JavaScript**
-- ⚡ Building **modern UI websites and mini JavaScript projects**
-- 🎥 Running a coding channel **CodeWithKalai**
-- 📂 Sharing open source projects on GitHub
-- 🌱 Currently learning **React & Advanced JavaScript**
+- 💻 Frontend Developer focused on **HTML CSS JavaScript**
+- ⚡ Building **modern UI websites and JavaScript projects**
+- 🎥 Running a coding YouTube channel **CodeWithKalai**
+- 🌱 Currently learning **React and advanced frontend**
 
 ---
 
@@ -23,11 +22,11 @@
 
 <p align="left">
 
-<a href="https://youtube.com/codewithkalai" target="_blank">
+<a href="https://www.youtube.com/codewithkalai">
 <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"/>
 </a>
 
-<a href="https://github.com/kalaiarasan2026" target="_blank">
+<a href="https://www.github.com/kalaiarasan2026">
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -41,13 +40,12 @@
 
 ## 🛠 Tech Stack
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=css"/>
 <img src="https://skillicons.dev/icons?i=js"/>
 <img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 
@@ -60,10 +58,9 @@
 | Project | Tech |
 |------|------|
 | JavaScript Calculator | HTML CSS JS |
+| Responsive Navbar UI | JavaScript |
 | CSS Loading Animations | CSS |
 | Portfolio Website | HTML CSS JS |
-| Responsive Navbar UI | JavaScript |
-| Mini JavaScript Projects | JS |
 
 ---
 
@@ -91,11 +88,10 @@
 
 ## 🎯 Current Goals
 
-- Build real world **frontend projects**
+- Build **real world frontend projects**
 - Upload **consistent GitHub commits**
-- Improve **React skills**
 - Grow **CodeWithKalai YouTube channel**
 
 ---
 
-⭐ If you like my projects, **star the repositories and follow my journey.**
+⭐ If you like my work, consider following my journey.
