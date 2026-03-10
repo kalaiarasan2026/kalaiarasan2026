@@ -1,75 +1,101 @@
-<h1 align="center">Hi 👋, I'm Kalai Arasan</h1>
+<h1 align="center">Hi 👋, I'm Kalaiarasan</h1>
 <h3 align="center">Frontend Developer | JavaScript Builder | Tech Creator</h3>
 
 <p align="center">
   <a href="https://github.com/kalaiarasan2026">
-    <img src="https://komarev.com/ghpvc/?username=kalaiarasan&label=Profile%20views&color=0e75b6&style=flat" alt="kalaiarasan" />
+    <img src="https://komarev.com/ghpvc/?username=kalaiarasan2026&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Focused on **Frontend Development**
-- 🌱 Currently improving my **JavaScript, React, and UI skills**
-- 🎥 Sharing coding content and mini projects
-- ⚡ I like building clean UI and practical web projects
+
+- 💻 Frontend Developer focused on **HTML, CSS, JavaScript**
+- ⚡ Building **modern UI websites and mini JavaScript projects**
+- 🎥 Running a coding channel **CodeWithKalai**
+- 📂 Sharing open source projects on GitHub
+- 🌱 Currently learning **React & Advanced JavaScript**
 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://www.youtube.com/@CodeWithKalai" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/codewith_kalai" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kalaiarasan10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<a href="https://youtube.com/codewithkalai" target="_blank">
+<img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://github.com/kalaiarasan2026" target="_blank">
+<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:kalaigurusamy8@gmail.com">
+<img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+
 </p>
 
 ---
 
-## 📌 Featured Projects
-- 🔢 JavaScript Calculator
-- 🐎 CSS Loading Animations
-- 🌐 Portfolio Website
-- 🎨 Responsive Navbar Components
-- ⚙️ Frontend Mini Projects
+## 📂 Featured Projects
+
+| Project | Tech |
+|------|------|
+| JavaScript Calculator | HTML CSS JS |
+| CSS Loading Animations | CSS |
+| Portfolio Website | HTML CSS JS |
+| Responsive Navbar UI | JavaScript |
+| Mini JavaScript Projects | JS |
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalaiarasan&show_icons=true&theme=tokyonight" alt="stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kalaiarasan2026&show_icons=true&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalaiarasan&theme=tokyonight" alt="streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalaiarasan2026&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalaiarasan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalaiarasan2026&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🧠 Current Goals
-- Build better real-world frontend projects
-- Improve GitHub profile quality
-- Upload projects consistently
-- Grow as a developer and creator
+## 🎯 Current Goals
+
+- Build real world **frontend projects**
+- Upload **consistent GitHub commits**
+- Improve **React skills**
+- Grow **CodeWithKalai YouTube channel**
 
 ---
 
-## ⭐ Support
-If you like my work, star my repositories and follow my journey.
+⭐ If you like my projects, **star the repositories and follow my journey.**
