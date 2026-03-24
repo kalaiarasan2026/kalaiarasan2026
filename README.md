@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalaiarasan2026&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Builder;UI+Engineer;CodeWithKalai" />
 </p>
 
 ---
