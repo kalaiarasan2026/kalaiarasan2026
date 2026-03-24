@@ -81,3 +81,9 @@
 ---
 
 ⭐ Open to opportunities and collaborations  
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
