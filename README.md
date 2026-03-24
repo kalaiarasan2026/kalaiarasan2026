@@ -91,13 +91,4 @@
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
- <h2 align="center">🏆 My GitHub Trophies</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kalaiarasan2026&theme=tokyonight&no-bg=true&margin-w=15" alt="kalaiarasan2026 trophies" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalaiarasan2026&theme=tokyonight" />
-</p>
