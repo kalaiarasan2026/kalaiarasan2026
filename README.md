@@ -29,7 +29,7 @@
 
 <p>
 
-<a href="https://www.youtube.com/codewithkalai">
+<a href="https://www.youtube.com/@CodeWithKalai">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
