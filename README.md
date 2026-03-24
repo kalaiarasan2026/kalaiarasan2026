@@ -86,7 +86,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 Profile Trophy (Gamified)
   <img src="https://github-profile-trophy.vercel.app/?username=kalaiarasan2026&theme=tokyonight" />
 </p>
