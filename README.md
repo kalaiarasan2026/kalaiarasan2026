@@ -1,94 +1,48 @@
 <h1 align="center">Hi 👋 I'm Kalaiarasan</h1>
-<h3 align="center">Frontend Engineer building scalable React + TypeScript applications with clean architecture and polished UI animations</h3>
+<h3 align="center">Frontend Engineer | React & TypeScript Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalaiarasan2026&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Builder;UI+Engineer;CodeWithKalai" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Scalable+Architectures;TypeScript+Enthusiast;UI+Animation+Specialist;CodeWithKalai" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 Professional Brief
+I bridge the gap between complex logic and polished user experiences. My focus is on building **type-safe applications** with React, focusing on performance, accessibility, and maintainable folder structures.
 
-- 💻 Frontend developer specializing in **HTML, CSS, and JavaScript**
-- ⚡ Focused on building **clean, responsive, and user-friendly UI**
-- 🎯 Interested in **real-world projects and scalable frontend architecture**
-- 🎥 Sharing knowledge through my YouTube channel **CodeWithKalai**
-- 🌱 Currently exploring **React, component-based design, and performance optimization**
-
----
-
-## 🧰 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github"/>
-</p>
+- 🏗️ **Architecting** clean React apps with modular component patterns.
+- ⚡ **Optimizing** web performance and Core Web Vitals.
+- 🎥 **Educating** the next gen of devs via [CodeWithKalai](https://www.youtube.com/@CodeWithKalai).
+- 🛠️ **Current Stack:** React 18, TypeScript, Tailwind CSS, Framer Motion.
 
 ---
 
-## 🌐 Connect With Me
+### 🧰 Technical Ecosystem
 
-<p>
-
-<a href="https://www.youtube.com/@CodeWithKalai">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kalaiarasan2026">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:kalaigurusamy8@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+| Category | Tools |
+| :--- | :--- |
+| **Frontend** | `React`, `TypeScript`, `Next.js`, `Redux Toolkit` |
+| **Styling** | `Tailwind CSS`, `Framer Motion`, `Styled Components` |
+| **Tooling** | `Vite`, `Jest`, `React Testing Library`, `ESLint` |
+| **Backend/CMS** | `Firebase`, `Supabase`, `Sanity.io` |
 
 ---
 
-## 📂 Featured Projects
+### 📂 Highlighted Engineering Work
 
-- 🧮 JavaScript Calculator — DOM manipulation & logic handling  
-- 📱 Responsive Navbar UI — Mobile-first layout design  
-- 🎨 CSS Animations — Loader & UI effects  
-- 🖥 Admin Dashboard — Data visualization + layout system  
-- 🌐 Portfolio Website — Personal branding + deployment
+* **[Admin Dashboard System](https://github.com/your-link)** *Built with React + TS + Recharts.* Focused on real-time data synchronization and complex state management.
+* **[Polished UI Library](https://github.com/your-link)** A collection of reusable, accessible components using **Radix UI** and **Tailwind**.
 
 ---
 
-## 📊 GitHub Stats
-
+### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalaiarasan2026&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalaiarasan2026&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalaiarasan2026&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalaiarasan2026&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalaiarasan2026&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
-
-## 🎯 Focus Areas
-
-- Building production-like frontend projects  
-- Writing clean and maintainable code  
-- Improving UI/UX quality  
-- Learning modern frontend workflows  
-
----
-
-⭐ Open to opportunities and collaborations  
-
-## 🐍 Contribution Snake
-
-<p align="center">
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
-
