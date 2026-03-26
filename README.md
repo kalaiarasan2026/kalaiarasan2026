@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Kalaiarasan</h1>
-<h3 align="center">Frontend Developer | UI Engineer | JavaScript Enthusiast</h3>
+<h3 align="center">Frontend Engineer building scalable React + TypeScript applications with clean architecture and polished UI animations</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalaiarasan2026&label=Profile%20Views&color=0e75b6&style=flat" />
